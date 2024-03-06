@@ -1,0 +1,18 @@
+<svg width="237" height="138" viewBox="0 0 237 138" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Rectangle 14401" filter="url(#filter0_b_1_274)">
+<path d="M82.6235 0.379883L236.776 89.3799L171.052 127.326C159.786 133.83 154.153 137.083 147.152 137.083C140.152 137.083 134.519 133.83 123.253 127.326L16.8996 65.9225C5.6332 59.4179 6.22213e-06 56.1655 7.28893e-06 52.1241C8.35572e-06 48.0826 5.6332 44.8303 16.8996 38.3256L82.6235 0.379883Z" fill="url(#paint0_linear_1_274)"/>
+</g>
+<defs>
+<filter id="filter0_b_1_274" x="-7" y="-6.62012" width="250.776" height="150.703" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="3.5"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_1_274"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_1_274" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_1_274" x1="61.4985" y1="-179.5" x2="228.067" y2="161.832" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5AE5EA"/>
+<stop offset="0.29487" stop-color="#5AE5EA" stop-opacity="0"/>
+<stop offset="1" stop-color="#5AE5EA"/>
+</linearGradient>
+</defs>
+</svg>
